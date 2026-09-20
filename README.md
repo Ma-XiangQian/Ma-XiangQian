@@ -7,8 +7,6 @@
 - 祖传技能：左手烙铁🔥，右手键盘⌨️，焊得了板子🔌，糊得了页面🎨
 - 软件靠拼，硬件靠焊，bug 靠重启，命靠 220V 电不死。⚡
 
-
-# 👋 Hi, I am Max.Q 🙋‍♂️
 🌈 Made in 2003 📦, no warranty ❌, no user manual ❌, fix by folk master 🛠️
 
 💻 Current status: lying-flat mode:
